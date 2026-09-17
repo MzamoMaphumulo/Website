@@ -1,0 +1,13 @@
+/*Head*/
+h1, h2, h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: justify;
+}
+body{
+    background-color: whitesmoke;
+    text-decoration: wavy;
+}
+p{
+    font-family: 'Courier New', Courier, monospace;
+
+}
